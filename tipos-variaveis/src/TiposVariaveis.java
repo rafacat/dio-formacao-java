@@ -12,5 +12,14 @@ public class TiposVariaveis {
          * Cast - Utilizado para atribuir um armazenamento de dado superior em um
          * inferior.
          */
+
+         final double VALOR_DE_PI = 3.14;
+         System.out.println(VALOR_DE_PI);
+
+         /*
+          * Para transformar uma variavel em uma constante na linguagem Java
+          * nós utilizamos a palavra reservada "final". Dessa forma ficamos
+          * restrito de fazer qualquer mudança na variavel.
+          */
     }
 }
