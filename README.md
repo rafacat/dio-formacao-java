@@ -1,2 +1,4 @@
 # dio-formacao-java
-Repositorio para armazenar todo conteúdo da formação java da DIO
+
+Repositorio principal para armazenar todo conteúdo da formação java da DIO.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
