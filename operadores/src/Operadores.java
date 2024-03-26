@@ -30,11 +30,17 @@ public class Operadores {
 
         // Negando um numero - "variavel"
         System.out.println(resultado);
-        System.out.println(- resultado);
+        System.out.println(-resultado);
 
-        //positivando um numero * - "variavel"
+        // Positivando um numero * - "variavel"
         System.out.println(subtracao);
-        System.out.println(subtracao * - 1);
+        System.out.println(subtracao * -1);
+
+        // Incrimentando um numero ++
+        System.out.println(multiplicacao++);
+
+        // Decrementando um numero --
+        System.out.println(multiplicacao--);
     }
 
 }
