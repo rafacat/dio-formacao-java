@@ -25,6 +25,7 @@ public class Operadores {
         int divisao = 47 / 3;
         int modulo = 18 % 3;
         double resultado = (10 * 7) - (20 / 3);
+        String verificador = "";
 
         // Operadores unários
 
@@ -41,6 +42,11 @@ public class Operadores {
 
         // Decrementando um numero --
         System.out.println(multiplicacao--);
+
+        // Operadores ternarios
+
+        verificador = modulo == divisao ? "Verdadeiro" : "Naruto";
+        System.out.println(verificador);
     }
 
 }
