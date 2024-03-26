@@ -16,15 +16,25 @@ public class Operadores {
         double soma = 15.7 + 47.1;
 
         /*
-        * Se por acaso o sinal de "+" for utilizado com uma string o sistema fará
-        * uma concatenacao.
-        */
+         * Se por acaso o sinal de "+" for utilizado com uma string o sistema fará
+         * uma concatenacao.
+         */
 
-        int subtracao = 10 - 7;
+        int subtracao = 10 - 87;
         int multiplicacao = 13 * 2;
         int divisao = 47 / 3;
         int modulo = 18 % 3;
         double resultado = (10 * 7) - (20 / 3);
+
+        // Operadores unários
+
+        // Negando um numero - "variavel"
+        System.out.println(resultado);
+        System.out.println(- resultado);
+
+        //positivando um numero * - "variavel"
+        System.out.println(subtracao);
+        System.out.println(subtracao * - 1);
     }
 
 }
