@@ -15,6 +15,7 @@
          "type": "java",
          "request": "launch",
          "mainClass": "AboutMe",
+         "projectName": "terminal-argumentos_7b3738be",
          "args": [
             "Rafael",
             "Simiao",
